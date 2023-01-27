@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey!
+
+I'm an Automotive engineer working on the latest ADAS systems.
+
+- 🌱 I’m currently learning how to code in Python.
+- 🤔 I’m looking for help with developing my skills for designing better ADAS systems
+- ⚡ Fun fact: I'm a black belt in BJJ, and enjoy other types of Grappling too!
+
 
 <!--
 **Qu1f/Qu1f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
