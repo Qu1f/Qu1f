@@ -3,7 +3,8 @@
 I'm an Automotive engineer working on the latest ADAS systems.
 
 - 🌱 I’m currently learning how to code in Python.
-- 🤔 I’m looking for help with developing my skills for designing better ADAS systems
+- 🤔 I’m looking for help with developing my skills for designing better ADAS systems.
+- 👯 I’m looking to collaborate on ADAS based projects, using Python.
 - ⚡ Fun fact: I'm a black belt in BJJ, and enjoy other types of Grappling too!
 
 
